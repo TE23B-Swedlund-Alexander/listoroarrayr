@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\listoroarrayr.csproj": {}
+    "c:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\listoroarrayr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\listoroarrayr.csproj": {
+    "c:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\listoroarrayr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\listoroarrayr.csproj",
+        "projectUniqueName": "c:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\listoroarrayr.csproj",
         "projectName": "listoroarrayr",
-        "projectPath": "C:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\listoroarrayr.csproj",
+        "projectPath": "c:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\listoroarrayr.csproj",
         "packagesPath": "C:\\Users\\alexander.swedlund\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\obj\\",
+        "outputPath": "c:\\Users\\alexander.swedlund\\New folder\\listoroarrayr\\listoroarrayr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

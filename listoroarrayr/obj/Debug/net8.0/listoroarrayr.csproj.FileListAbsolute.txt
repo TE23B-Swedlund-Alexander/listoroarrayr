@@ -1,0 +1,15 @@
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\bin\Debug\net8.0\listoroarrayr.exe
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\bin\Debug\net8.0\listoroarrayr.deps.json
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\bin\Debug\net8.0\listoroarrayr.runtimeconfig.json
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\bin\Debug\net8.0\listoroarrayr.dll
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\bin\Debug\net8.0\listoroarrayr.pdb
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\listoroarrayr.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\listoroarrayr.AssemblyInfoInputs.cache
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\listoroarrayr.AssemblyInfo.cs
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\listoroarrayr.csproj.CoreCompileInputs.cache
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\listoroarrayr.sourcelink.json
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\listoroarrayr.dll
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\refint\listoroarrayr.dll
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\listoroarrayr.pdb
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\listoroarrayr.genruntimeconfig.cache
+c:\Users\alexander.swedlund\New folder\listoroarrayr\listoroarrayr\obj\Debug\net8.0\ref\listoroarrayr.dll
